@@ -1,0 +1,6 @@
+## intelij ####
+.idea
+*.iws
+*.iml
+*.ipr
+
