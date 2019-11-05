@@ -3,4 +3,5 @@
 *.iws
 *.iml
 *.ipr
-
+*.class
+out
